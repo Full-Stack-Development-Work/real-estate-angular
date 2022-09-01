@@ -1,4 +1,4 @@
-# real-estate-management
+# real-estate-management-angular
 
 A online property management solution for real estate and
 physical property management. This can include residential,
